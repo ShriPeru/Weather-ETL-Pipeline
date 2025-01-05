@@ -1,7 +1,5 @@
 # Weather ETL Pipeline
 
-**Project Duration:** December 2024 - January 2025
-
 ## Overview
 This project demonstrates a comprehensive Weather ETL (Extract, Transform, Load) pipeline leveraging modern data engineering tools and technologies. The pipeline integrates data ingestion, transformation, storage, and analysis workflows to process weather data efficiently.
 
